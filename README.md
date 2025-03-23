@@ -1,1 +1,1 @@
-Adapated a frontend template for creating a personal site.
+Adapated a frontend template to create this personal site.
